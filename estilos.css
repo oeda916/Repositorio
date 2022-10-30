@@ -1,0 +1,13 @@
+/* Declarando formato para todo el html e importando fuente personalizada */
+
+@font-face {
+    font-family: Oswald;
+    src: url(assets/Oswald-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: Oswald, Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
