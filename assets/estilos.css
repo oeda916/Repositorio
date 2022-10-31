@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: Oswald;
-    src: url(assets/Oswald-VariableFont_wght.ttf);
+    src: url(Oswald-VariableFont_wght.ttf);
 }
 
 * {
@@ -11,3 +11,6 @@
     margin: 0;
 }
 
+nav li {
+    display:inline-block;
+}
