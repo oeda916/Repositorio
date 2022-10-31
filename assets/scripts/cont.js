@@ -89,4 +89,4 @@ document.addEventListener('change',(e)=>{
     e.target.matches('#contacto') ? valorContacto(e.target.value):null
 })
 
-alert("Gracias por contactarnos");
+alert(Gracias por contactarnos);
