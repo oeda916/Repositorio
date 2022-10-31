@@ -77,6 +77,7 @@ form.addEventListener('submit',(e)=>{
     if(vectorValida.length==4){
         localStorage.setItem(`${BD[2]}`,JSON.stringify(BD))
         window.location.reload
+        alert("Gracias por contactarnos")
     }
 })
 
@@ -88,5 +89,3 @@ document.addEventListener('change',(e)=>{
     e.target.matches('#email') ? valorEmail(e.target.value):null
     e.target.matches('#contacto') ? valorContacto(e.target.value):null
 })
-
-alert(Gracias por contactarnos);
