@@ -4,1749 +4,1749 @@
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "1/1/2022",
    "FechaModificacion": "8/1/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 2,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "3/1/2022",
    "FechaModificacion": "10/1/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 3,
    "TipoElectro": "Televisor",
    "FechaIngreso": "4/1/2022",
    "FechaModificacion": "14/1/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 4,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "4/1/2022",
    "FechaModificacion": "11/1/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 5,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "6/1/2022",
    "FechaModificacion": "13/1/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 6,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "6/1/2022",
    "FechaModificacion": "20/1/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 7,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "7/1/2022",
    "FechaModificacion": "28/1/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 8,
    "TipoElectro": "Televisor",
    "FechaIngreso": "8/1/2022",
    "FechaModificacion": "1/2/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 9,
    "TipoElectro": "Televisor",
    "FechaIngreso": "8/1/2022",
    "FechaModificacion": "25/1/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 10,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "8/1/2022",
    "FechaModificacion": "28/1/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 11,
    "TipoElectro": "Televisor",
    "FechaIngreso": "10/1/2022",
    "FechaModificacion": "11/1/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 12,
    "TipoElectro": "Heladera",
    "FechaIngreso": "10/1/2022",
    "FechaModificacion": "14/1/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 13,
    "TipoElectro": "Cocina",
    "FechaIngreso": "11/1/2022",
    "FechaModificacion": "29/1/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 14,
    "TipoElectro": "Heladera",
    "FechaIngreso": "12/1/2022",
    "FechaModificacion": "29/1/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 15,
    "TipoElectro": "Heladera",
    "FechaIngreso": "12/1/2022",
    "FechaModificacion": "17/1/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 16,
    "TipoElectro": "Cocina",
    "FechaIngreso": "12/1/2022",
    "FechaModificacion": "5/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 17,
    "TipoElectro": "Cocina",
    "FechaIngreso": "12/1/2022",
    "FechaModificacion": "14/1/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 18,
    "TipoElectro": "Televisor",
    "FechaIngreso": "13/1/2022",
    "FechaModificacion": "6/2/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 19,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "16/1/2022",
    "FechaModificacion": "17/1/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 20,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "17/1/2022",
    "FechaModificacion": "3/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 21,
    "TipoElectro": "Heladera",
    "FechaIngreso": "20/1/2022",
    "FechaModificacion": "5/2/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 22,
    "TipoElectro": "Televisor",
    "FechaIngreso": "20/1/2022",
    "FechaModificacion": "26/1/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 23,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "21/1/2022",
    "FechaModificacion": "4/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 24,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "22/1/2022",
    "FechaModificacion": "26/1/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 25,
    "TipoElectro": "Cocina",
    "FechaIngreso": "23/1/2022",
    "FechaModificacion": "6/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 26,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "25/1/2022",
    "FechaModificacion": "13/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 27,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "26/1/2022",
    "FechaModificacion": "5/2/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 28,
    "TipoElectro": "Heladera",
    "FechaIngreso": "28/1/2022",
    "FechaModificacion": "26/2/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 29,
    "TipoElectro": "Heladera",
    "FechaIngreso": "29/1/2022",
    "FechaModificacion": "2/2/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 30,
    "TipoElectro": "Televisor",
    "FechaIngreso": "29/1/2022",
    "FechaModificacion": "9/2/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 31,
    "TipoElectro": "Cocina",
    "FechaIngreso": "29/1/2022",
    "FechaModificacion": "8/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 32,
    "TipoElectro": "Cocina",
    "FechaIngreso": "30/1/2022",
    "FechaModificacion": "17/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 33,
    "TipoElectro": "Cocina",
    "FechaIngreso": "30/1/2022",
    "FechaModificacion": "10/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 34,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "2/2/2022",
    "FechaModificacion": "16/2/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 35,
    "TipoElectro": "Heladera",
    "FechaIngreso": "4/2/2022",
    "FechaModificacion": "25/2/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 36,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "4/2/2022",
    "FechaModificacion": "8/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 37,
    "TipoElectro": "Televisor",
    "FechaIngreso": "4/2/2022",
    "FechaModificacion": "14/2/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 38,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "5/2/2022",
    "FechaModificacion": "8/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 39,
    "TipoElectro": "Cocina",
    "FechaIngreso": "6/2/2022",
    "FechaModificacion": "14/2/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 40,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "6/2/2022",
    "FechaModificacion": "18/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 41,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "9/2/2022",
    "FechaModificacion": "24/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 42,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "9/2/2022",
    "FechaModificacion": "25/2/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 43,
    "TipoElectro": "Televisor",
    "FechaIngreso": "14/2/2022",
    "FechaModificacion": "21/2/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 44,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "14/2/2022",
    "FechaModificacion": "18/2/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 45,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "16/2/2022",
    "FechaModificacion": "24/2/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 46,
    "TipoElectro": "Heladera",
    "FechaIngreso": "19/2/2022",
    "FechaModificacion": "19/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 47,
    "TipoElectro": "Cocina",
    "FechaIngreso": "20/2/2022",
    "FechaModificacion": "11/3/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 48,
    "TipoElectro": "Heladera",
    "FechaIngreso": "22/2/2022",
    "FechaModificacion": "3/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 49,
    "TipoElectro": "Televisor",
    "FechaIngreso": "25/2/2022",
    "FechaModificacion": "20/3/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 50,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "25/2/2022",
    "FechaModificacion": "26/3/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 51,
    "TipoElectro": "Televisor",
    "FechaIngreso": "26/2/2022",
    "FechaModificacion": "20/3/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 52,
    "TipoElectro": "Televisor",
    "FechaIngreso": "26/2/2022",
    "FechaModificacion": "13/3/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 53,
    "TipoElectro": "Heladera",
    "FechaIngreso": "27/2/2022",
    "FechaModificacion": "6/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 54,
    "TipoElectro": "Heladera",
    "FechaIngreso": "28/2/2022",
    "FechaModificacion": "6/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 55,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "1/3/2022",
    "FechaModificacion": "4/3/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 56,
    "TipoElectro": "Cocina",
    "FechaIngreso": "7/3/2022",
    "FechaModificacion": "25/3/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 57,
    "TipoElectro": "Heladera",
    "FechaIngreso": "7/3/2022",
    "FechaModificacion": "29/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 58,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "8/3/2022",
    "FechaModificacion": "17/3/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 59,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "10/3/2022",
    "FechaModificacion": "31/3/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 60,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "10/3/2022",
    "FechaModificacion": "4/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 61,
    "TipoElectro": "Cocina",
    "FechaIngreso": "11/3/2022",
    "FechaModificacion": "19/3/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 62,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "12/3/2022",
    "FechaModificacion": "11/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 63,
    "TipoElectro": "Cocina",
    "FechaIngreso": "12/3/2022",
    "FechaModificacion": "22/3/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 64,
    "TipoElectro": "Cocina",
    "FechaIngreso": "13/3/2022",
    "FechaModificacion": "25/3/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 65,
    "TipoElectro": "Cocina",
    "FechaIngreso": "13/3/2022",
    "FechaModificacion": "4/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 66,
    "TipoElectro": "Heladera",
    "FechaIngreso": "14/3/2022",
    "FechaModificacion": "25/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 67,
    "TipoElectro": "Televisor",
    "FechaIngreso": "15/3/2022",
    "FechaModificacion": "28/3/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 68,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "16/3/2022",
    "FechaModificacion": "19/3/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 69,
    "TipoElectro": "Heladera",
    "FechaIngreso": "18/3/2022",
    "FechaModificacion": "15/4/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 70,
    "TipoElectro": "Televisor",
    "FechaIngreso": "22/3/2022",
    "FechaModificacion": "20/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 71,
    "TipoElectro": "Televisor",
    "FechaIngreso": "22/3/2022",
    "FechaModificacion": "6/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 72,
    "TipoElectro": "Televisor",
    "FechaIngreso": "23/3/2022",
    "FechaModificacion": "10/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 73,
    "TipoElectro": "Heladera",
    "FechaIngreso": "23/3/2022",
    "FechaModificacion": "24/3/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 74,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "24/3/2022",
    "FechaModificacion": "27/3/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 75,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "25/3/2022",
    "FechaModificacion": "1/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 76,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "26/3/2022",
    "FechaModificacion": "3/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 77,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "29/3/2022",
    "FechaModificacion": "21/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 78,
    "TipoElectro": "Cocina",
    "FechaIngreso": "31/3/2022",
    "FechaModificacion": "13/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 79,
    "TipoElectro": "Heladera",
    "FechaIngreso": "2/4/2022",
    "FechaModificacion": "24/4/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 80,
    "TipoElectro": "Cocina",
    "FechaIngreso": "3/4/2022",
    "FechaModificacion": "4/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 81,
    "TipoElectro": "Heladera",
    "FechaIngreso": "3/4/2022",
    "FechaModificacion": "11/4/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 82,
    "TipoElectro": "Cocina",
    "FechaIngreso": "5/4/2022",
    "FechaModificacion": "20/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 83,
    "TipoElectro": "Televisor",
    "FechaIngreso": "5/4/2022",
    "FechaModificacion": "28/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 84,
    "TipoElectro": "Cocina",
    "FechaIngreso": "5/4/2022",
    "FechaModificacion": "3/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 85,
    "TipoElectro": "Cocina",
    "FechaIngreso": "5/4/2022",
    "FechaModificacion": "24/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 86,
    "TipoElectro": "Televisor",
    "FechaIngreso": "6/4/2022",
    "FechaModificacion": "4/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 87,
    "TipoElectro": "Televisor",
    "FechaIngreso": "8/4/2022",
    "FechaModificacion": "17/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 88,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "8/4/2022",
    "FechaModificacion": "28/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 89,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "8/4/2022",
    "FechaModificacion": "16/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 90,
    "TipoElectro": "Televisor",
    "FechaIngreso": "10/4/2022",
    "FechaModificacion": "1/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 91,
    "TipoElectro": "Heladera",
    "FechaIngreso": "11/4/2022",
    "FechaModificacion": "4/5/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 92,
    "TipoElectro": "Cocina",
    "FechaIngreso": "11/4/2022",
    "FechaModificacion": "10/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 93,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "11/4/2022",
    "FechaModificacion": "27/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 94,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "11/4/2022",
    "FechaModificacion": "13/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 95,
    "TipoElectro": "Cocina",
    "FechaIngreso": "13/4/2022",
    "FechaModificacion": "1/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 96,
    "TipoElectro": "Televisor",
    "FechaIngreso": "13/4/2022",
    "FechaModificacion": "24/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 97,
    "TipoElectro": "Televisor",
    "FechaIngreso": "14/4/2022",
    "FechaModificacion": "13/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 98,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "14/4/2022",
    "FechaModificacion": "27/4/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 99,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "15/4/2022",
    "FechaModificacion": "30/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 100,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "16/4/2022",
    "FechaModificacion": "17/4/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 101,
    "TipoElectro": "Heladera",
    "FechaIngreso": "16/4/2022",
    "FechaModificacion": "7/5/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 102,
    "TipoElectro": "Televisor",
    "FechaIngreso": "16/4/2022",
    "FechaModificacion": "18/4/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 103,
    "TipoElectro": "Heladera",
    "FechaIngreso": "20/4/2022",
    "FechaModificacion": "28/4/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 104,
    "TipoElectro": "Televisor",
    "FechaIngreso": "21/4/2022",
    "FechaModificacion": "18/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 105,
    "TipoElectro": "Cocina",
    "FechaIngreso": "22/4/2022",
    "FechaModificacion": "29/4/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 106,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "30/4/2022",
    "FechaModificacion": "10/5/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 107,
    "TipoElectro": "Cocina",
    "FechaIngreso": "30/4/2022",
    "FechaModificacion": "15/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 108,
    "TipoElectro": "Televisor",
    "FechaIngreso": "3/5/2022",
    "FechaModificacion": "30/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 109,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "4/5/2022",
    "FechaModificacion": "9/5/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 110,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "5/5/2022",
    "FechaModificacion": "31/5/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 111,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "8/5/2022",
    "FechaModificacion": "15/5/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 112,
    "TipoElectro": "Heladera",
    "FechaIngreso": "9/5/2022",
    "FechaModificacion": "12/5/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 113,
    "TipoElectro": "Cocina",
    "FechaIngreso": "10/5/2022",
    "FechaModificacion": "30/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 114,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "11/5/2022",
    "FechaModificacion": "13/5/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 115,
    "TipoElectro": "Cocina",
    "FechaIngreso": "12/5/2022",
    "FechaModificacion": "1/6/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 116,
    "TipoElectro": "Televisor",
    "FechaIngreso": "13/5/2022",
    "FechaModificacion": "31/5/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 117,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "14/5/2022",
    "FechaModificacion": "6/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 118,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "15/5/2022",
    "FechaModificacion": "4/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 119,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "16/5/2022",
    "FechaModificacion": "25/5/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 120,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "16/5/2022",
    "FechaModificacion": "11/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 121,
    "TipoElectro": "Cocina",
    "FechaIngreso": "20/5/2022",
    "FechaModificacion": "19/6/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 122,
    "TipoElectro": "Heladera",
    "FechaIngreso": "21/5/2022",
    "FechaModificacion": "7/6/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 123,
    "TipoElectro": "Cocina",
    "FechaIngreso": "21/5/2022",
    "FechaModificacion": "23/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 124,
    "TipoElectro": "Cocina",
    "FechaIngreso": "21/5/2022",
    "FechaModificacion": "30/5/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 125,
    "TipoElectro": "Televisor",
    "FechaIngreso": "23/5/2022",
    "FechaModificacion": "10/6/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 126,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "23/5/2022",
    "FechaModificacion": "17/6/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 127,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "25/5/2022",
    "FechaModificacion": "22/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 128,
    "TipoElectro": "Heladera",
    "FechaIngreso": "25/5/2022",
    "FechaModificacion": "27/5/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 129,
    "TipoElectro": "Heladera",
    "FechaIngreso": "25/5/2022",
    "FechaModificacion": "11/6/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 130,
    "TipoElectro": "Heladera",
    "FechaIngreso": "26/5/2022",
    "FechaModificacion": "25/6/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 131,
    "TipoElectro": "Cocina",
    "FechaIngreso": "28/5/2022",
    "FechaModificacion": "22/6/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 132,
    "TipoElectro": "Televisor",
    "FechaIngreso": "31/5/2022",
    "FechaModificacion": "2/6/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 133,
    "TipoElectro": "Cocina",
    "FechaIngreso": "3/6/2022",
    "FechaModificacion": "4/6/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 134,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "3/6/2022",
    "FechaModificacion": "6/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 135,
    "TipoElectro": "Heladera",
    "FechaIngreso": "3/6/2022",
    "FechaModificacion": "13/6/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 136,
    "TipoElectro": "Televisor",
    "FechaIngreso": "5/6/2022",
    "FechaModificacion": "11/6/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 137,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "6/6/2022",
    "FechaModificacion": "16/6/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 138,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "6/6/2022",
    "FechaModificacion": "22/6/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 139,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "9/6/2022",
    "FechaModificacion": "10/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 140,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "10/6/2022",
    "FechaModificacion": "20/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 141,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "11/6/2022",
    "FechaModificacion": "15/6/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 142,
    "TipoElectro": "Heladera",
    "FechaIngreso": "12/6/2022",
    "FechaModificacion": "14/6/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 143,
    "TipoElectro": "Cocina",
    "FechaIngreso": "12/6/2022",
    "FechaModificacion": "9/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 144,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "14/6/2022",
    "FechaModificacion": "15/6/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 145,
    "TipoElectro": "Televisor",
    "FechaIngreso": "15/6/2022",
    "FechaModificacion": "23/6/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 146,
    "TipoElectro": "Televisor",
    "FechaIngreso": "18/6/2022",
    "FechaModificacion": "20/6/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 147,
    "TipoElectro": "Cocina",
    "FechaIngreso": "19/6/2022",
    "FechaModificacion": "13/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 148,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "20/6/2022",
    "FechaModificacion": "13/7/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 149,
    "TipoElectro": "Heladera",
    "FechaIngreso": "21/6/2022",
    "FechaModificacion": "8/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 150,
    "TipoElectro": "Heladera",
    "FechaIngreso": "22/6/2022",
    "FechaModificacion": "22/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 151,
    "TipoElectro": "Televisor",
    "FechaIngreso": "25/6/2022",
    "FechaModificacion": "17/7/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 152,
    "TipoElectro": "Cocina",
    "FechaIngreso": "25/6/2022",
    "FechaModificacion": "30/6/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 153,
    "TipoElectro": "Heladera",
    "FechaIngreso": "28/6/2022",
    "FechaModificacion": "14/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 154,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "30/6/2022",
    "FechaModificacion": "21/7/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 155,
    "TipoElectro": "Cocina",
    "FechaIngreso": "1/7/2022",
    "FechaModificacion": "3/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 156,
    "TipoElectro": "Televisor",
    "FechaIngreso": "1/7/2022",
    "FechaModificacion": "13/7/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 157,
    "TipoElectro": "Cocina",
    "FechaIngreso": "2/7/2022",
    "FechaModificacion": "11/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 158,
    "TipoElectro": "Cocina",
    "FechaIngreso": "4/7/2022",
    "FechaModificacion": "9/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 159,
    "TipoElectro": "Heladera",
    "FechaIngreso": "5/7/2022",
    "FechaModificacion": "20/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 160,
    "TipoElectro": "Cocina",
    "FechaIngreso": "6/7/2022",
    "FechaModificacion": "18/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 161,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "7/7/2022",
    "FechaModificacion": "10/7/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 162,
    "TipoElectro": "Cocina",
    "FechaIngreso": "7/7/2022",
    "FechaModificacion": "10/7/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 163,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "7/7/2022",
    "FechaModificacion": "20/7/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 164,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "12/7/2022",
    "FechaModificacion": "10/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 165,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "15/7/2022",
    "FechaModificacion": "21/7/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 166,
    "TipoElectro": "Heladera",
    "FechaIngreso": "18/7/2022",
    "FechaModificacion": "9/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 167,
    "TipoElectro": "Televisor",
    "FechaIngreso": "20/7/2022",
    "FechaModificacion": "21/7/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 168,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "20/7/2022",
    "FechaModificacion": "5/8/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 169,
    "TipoElectro": "Cocina",
    "FechaIngreso": "22/7/2022",
    "FechaModificacion": "2/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 170,
    "TipoElectro": "Heladera",
    "FechaIngreso": "23/7/2022",
    "FechaModificacion": "30/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 171,
    "TipoElectro": "Heladera",
    "FechaIngreso": "26/7/2022",
    "FechaModificacion": "25/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 172,
    "TipoElectro": "Cocina",
    "FechaIngreso": "27/7/2022",
    "FechaModificacion": "8/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 173,
    "TipoElectro": "Heladera",
    "FechaIngreso": "27/7/2022",
    "FechaModificacion": "25/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 174,
    "TipoElectro": "Heladera",
    "FechaIngreso": "28/7/2022",
    "FechaModificacion": "30/7/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 175,
    "TipoElectro": "Cocina",
    "FechaIngreso": "29/7/2022",
    "FechaModificacion": "19/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 176,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "29/7/2022",
    "FechaModificacion": "30/7/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 177,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "31/7/2022",
    "FechaModificacion": "12/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 178,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "1/8/2022",
    "FechaModificacion": "9/8/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 179,
    "TipoElectro": "Heladera",
    "FechaIngreso": "1/8/2022",
    "FechaModificacion": "12/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 180,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "2/8/2022",
    "FechaModificacion": "7/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 181,
    "TipoElectro": "Televisor",
    "FechaIngreso": "2/8/2022",
    "FechaModificacion": "24/8/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 182,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "3/8/2022",
    "FechaModificacion": "26/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 183,
    "TipoElectro": "Cocina",
    "FechaIngreso": "3/8/2022",
    "FechaModificacion": "21/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 184,
    "TipoElectro": "Heladera",
    "FechaIngreso": "3/8/2022",
    "FechaModificacion": "22/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 185,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "3/8/2022",
    "FechaModificacion": "1/9/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 186,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "4/8/2022",
    "FechaModificacion": "22/8/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 187,
    "TipoElectro": "Cocina",
    "FechaIngreso": "4/8/2022",
    "FechaModificacion": "7/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 188,
    "TipoElectro": "Televisor",
    "FechaIngreso": "4/8/2022",
    "FechaModificacion": "30/8/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 189,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "4/8/2022",
    "FechaModificacion": "18/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 190,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "4/8/2022",
    "FechaModificacion": "23/8/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 191,
    "TipoElectro": "Heladera",
    "FechaIngreso": "6/8/2022",
    "FechaModificacion": "23/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 192,
    "TipoElectro": "Heladera",
    "FechaIngreso": "6/8/2022",
    "FechaModificacion": "18/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 193,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "8/8/2022",
    "FechaModificacion": "27/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 194,
    "TipoElectro": "Heladera",
    "FechaIngreso": "9/8/2022",
    "FechaModificacion": "26/8/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 195,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "10/8/2022",
    "FechaModificacion": "2/9/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 196,
    "TipoElectro": "Televisor",
    "FechaIngreso": "11/8/2022",
    "FechaModificacion": "7/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 197,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "14/8/2022",
    "FechaModificacion": "31/8/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 198,
    "TipoElectro": "Cocina",
    "FechaIngreso": "14/8/2022",
    "FechaModificacion": "17/8/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 199,
    "TipoElectro": "Televisor",
    "FechaIngreso": "16/8/2022",
    "FechaModificacion": "27/8/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 200,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "16/8/2022",
    "FechaModificacion": "1/9/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 201,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "20/8/2022",
    "FechaModificacion": "9/9/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 202,
    "TipoElectro": "Televisor",
    "FechaIngreso": "20/8/2022",
    "FechaModificacion": "13/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 203,
    "TipoElectro": "Televisor",
    "FechaIngreso": "20/8/2022",
    "FechaModificacion": "23/8/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 204,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "20/8/2022",
    "FechaModificacion": "15/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 205,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "21/8/2022",
    "FechaModificacion": "29/8/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 206,
    "TipoElectro": "Televisor",
    "FechaIngreso": "22/8/2022",
    "FechaModificacion": "14/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 207,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "22/8/2022",
    "FechaModificacion": "14/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 208,
    "TipoElectro": "Cocina",
    "FechaIngreso": "25/8/2022",
    "FechaModificacion": "19/9/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 209,
    "TipoElectro": "Cocina",
    "FechaIngreso": "28/8/2022",
    "FechaModificacion": "23/9/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 210,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "30/8/2022",
    "FechaModificacion": "29/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 211,
    "TipoElectro": "Heladera",
    "FechaIngreso": "31/8/2022",
    "FechaModificacion": "9/9/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 212,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "31/8/2022",
    "FechaModificacion": "11/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 213,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "31/8/2022",
    "FechaModificacion": "11/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 214,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "4/9/2022",
    "FechaModificacion": "6/9/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 215,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "6/9/2022",
    "FechaModificacion": "20/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 216,
    "TipoElectro": "Televisor",
    "FechaIngreso": "6/9/2022",
    "FechaModificacion": "30/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 217,
    "TipoElectro": "Televisor",
    "FechaIngreso": "7/9/2022",
    "FechaModificacion": "9/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 218,
    "TipoElectro": "Televisor",
    "FechaIngreso": "8/9/2022",
    "FechaModificacion": "4/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 219,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "8/9/2022",
    "FechaModificacion": "3/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 220,
    "TipoElectro": "Televisor",
    "FechaIngreso": "8/9/2022",
    "FechaModificacion": "6/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 221,
    "TipoElectro": "Heladera",
    "FechaIngreso": "9/9/2022",
    "FechaModificacion": "24/9/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 222,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "9/9/2022",
    "FechaModificacion": "1/10/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 223,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "9/9/2022",
    "FechaModificacion": "1/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 224,
    "TipoElectro": "Heladera",
    "FechaIngreso": "12/9/2022",
    "FechaModificacion": "12/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 225,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "17/9/2022",
    "FechaModificacion": "15/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 226,
    "TipoElectro": "Televisor",
    "FechaIngreso": "17/9/2022",
    "FechaModificacion": "18/9/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 227,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "18/9/2022",
    "FechaModificacion": "16/10/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 228,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "19/9/2022",
    "FechaModificacion": "16/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 229,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "20/9/2022",
    "FechaModificacion": "30/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 230,
    "TipoElectro": "Cocina",
    "FechaIngreso": "20/9/2022",
    "FechaModificacion": "13/10/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 231,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "21/9/2022",
    "FechaModificacion": "22/9/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 232,
    "TipoElectro": "Televisor",
    "FechaIngreso": "25/9/2022",
    "FechaModificacion": "14/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 233,
    "TipoElectro": "Televisor",
    "FechaIngreso": "25/9/2022",
    "FechaModificacion": "12/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 234,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "25/9/2022",
    "FechaModificacion": "25/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 235,
    "TipoElectro": "Televisor",
    "FechaIngreso": "26/9/2022",
    "FechaModificacion": "20/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 236,
    "TipoElectro": "Heladera",
    "FechaIngreso": "27/9/2022",
    "FechaModificacion": "1/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 237,
    "TipoElectro": "Cocina",
    "FechaIngreso": "28/9/2022",
    "FechaModificacion": "18/10/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 238,
    "TipoElectro": "Heladera",
    "FechaIngreso": "1/10/2022",
    "FechaModificacion": "19/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 239,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "1/10/2022",
    "FechaModificacion": "21/10/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 240,
    "TipoElectro": "Heladera",
    "FechaIngreso": "2/10/2022",
    "FechaModificacion": "23/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 241,
    "TipoElectro": "Cocina",
    "FechaIngreso": "8/10/2022",
    "FechaModificacion": "26/10/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  },
  {
    "NumSoporte": 242,
    "TipoElectro": "Televisor",
    "FechaIngreso": "9/10/2022",
    "FechaModificacion": "13/10/2022",
-   "EstadoActual": "Control de calidad"
+   "EstadoActual": "Visita reparacion agendada"
  },
  {
    "NumSoporte": 243,
    "TipoElectro": "Heladera",
    "FechaIngreso": "9/10/2022",
    "FechaModificacion": "30/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 244,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "10/10/2022",
    "FechaModificacion": "13/10/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 245,
    "TipoElectro": "Heladera",
    "FechaIngreso": "10/10/2022",
    "FechaModificacion": "30/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 246,
    "TipoElectro": "Heladera",
    "FechaIngreso": "13/10/2022",
    "FechaModificacion": "27/10/2022",
-   "EstadoActual": "Registrado"
+   "EstadoActual": "Visita diagostica ejecutada"
  },
  {
    "NumSoporte": 247,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "14/10/2022",
    "FechaModificacion": "6/11/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 248,
    "TipoElectro": "Aire Acondicionado",
    "FechaIngreso": "17/10/2022",
    "FechaModificacion": "30/10/2022",
-   "EstadoActual": "Terminado"
+   "EstadoActual": "Trabajo pagado"
  },
  {
    "NumSoporte": 249,
    "TipoElectro": "Lavarropas",
    "FechaIngreso": "17/10/2022",
    "FechaModificacion": "7/11/2022",
-   "EstadoActual": "Preparacion final"
+   "EstadoActual": "Trabajo realizado"
  },
  {
    "NumSoporte": 250,
    "TipoElectro": "Cocina",
    "FechaIngreso": "20/10/2022",
    "FechaModificacion": "14/11/2022",
-   "EstadoActual": "En revision"
+   "EstadoActual": "Trabajo cotizado"
  }
 ]
