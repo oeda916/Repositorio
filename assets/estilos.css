@@ -9,6 +9,74 @@
     font-family: Oswald, Verdana, Geneva, Tahoma, sans-serif;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+
+.btns {
+    display: block;
+}
+
+#climadiv {
+    display: grid;
+    grid-template-areas:
+        "a b c"
+        "d e f"
+        "g h i"
+        "j k l";
+}
+
+#climadiv>p {
+    font-size: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.cajaclima_1 {
+    grid-area: a;
+}
+
+.cajaclima_2 {
+    grid-area: b;
+}
+
+.cajaclima_3 {
+    grid-area: c;
+}
+
+.cajaclima_4 {
+    grid-area: d;
+}
+
+.cajaclima_5 {
+    grid-area: e;
+}
+
+.cajaclima_6 {
+    grid-area: f;
+}
+
+.cajaclima_7 {
+    grid-area: g;
+}
+
+.cajaclima_8 {
+    grid-area: h;
+}
+
+.cajaclima_9 {
+    grid-area: i;
+}
+
+.cajaclima_10 {
+    grid-area: j;
+}
+
+.cajaclima_11 {
+    grid-area: k;
+}
+
+.cajaclima_12 {
+    grid-area: l;
 }
 
 /* Temporalmente declarando el logo mas pequeño para pruebas de funcionalidad. */
