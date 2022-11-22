@@ -81,6 +81,22 @@
     grid-area: l;
 }
 
+#estado {
+    display: grid;
+    max-width: 70%;
+}
+
+#estado>p {
+    font-size: 1rem;
+    padding: 0.2 rem;
+    margin: 0.2 rem;
+}
+
+#ImagenRp {
+    max-width: 70%;
+    height: auto;
+}
+
 /* Temporalmente declarando el logo mas pequeño para pruebas de funcionalidad. */
 
 .logo {

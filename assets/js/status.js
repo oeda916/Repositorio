@@ -10,6 +10,9 @@ const estadorepEl = document.getElementById('estado');
 // Haciendo fetch de JSON local que simula base de datos "Con el estado actual de los soportes"
 // Definiendo codigo para realizar y reiniciar consulta
 
+//Añadiendo eventlistener para que cuando cargue la pagina de seguimiento haga foco en el boton de consulta
+
+
 const realizarconsulta = () => {
 
     fetch('assets/DatosSop.json')
@@ -26,11 +29,16 @@ const realizarconsulta = () => {
             }
 
             else {
+                for (i=0; i < 1 ;i++) {
+                    console.log((statuses[NumaConsultar2].TipoEq));
+                };
+                let rutaimg = ["aireacond","cocina","heladera","lavarropas","televisor"];
                 estadorepEl.innerHTML = `<p>Numero de Soporte: ${statuses[NumaConsultar2].NumS}</p>
-                <p>Tipo de equipo: ${statuses[NumaConsultar2].TipoEq}</p>
-                <p>Fecha de inicio de trabajos: ${statuses[NumaConsultar2].FechaI}</p>
-                <p>Fecha de ultima actualizacion: ${statuses[NumaConsultar2].FechaAct}</p>
-                <p>Estado actual de trabajo: ${statuses[NumaConsultar2].EdoAct}</p>`;
+                <p class = "TiEeqq" >Tipo de equipo: ${statuses[NumaConsultar2].TipoEq}</p>
+                <p class = "Ffechii" >Fecha de inicio de trabajos: ${statuses[NumaConsultar2].FechaI}</p>
+                <p class = "Ffechaa" >Fecha de ultima actualizacion: ${statuses[NumaConsultar2].FechaAct}</p>
+                <p class = "Eeact" >Estado actual de trabajo: ${statuses[NumaConsultar2].EdoAct}</p>
+                <img src="assets/img/${rutaimg[statuses[NumaConsultar2].IdTipE]}.jpg" alt = "${statuses[NumaConsultar2].TipoEq}" id = "ImagenRp" >`;
             };
         }
         );
@@ -38,13 +46,13 @@ const realizarconsulta = () => {
 
 const resetearconsulta = () => {
 
-    let hijos = estadorepEl.childElementCount;    
+    let hijos = estadorepEl.childElementCount;
 
     if (hijos != 0) {
-        for (i = 0 ; i < hijos ; i++){
-        let eliminar = estadorepEl.firstElementChild;
-        eliminar.remove();
-        }        
+        for (i = 0; i < hijos; i++) {
+            let eliminar = estadorepEl.firstElementChild;
+            eliminar.remove();
+        }
     };
 };
 
