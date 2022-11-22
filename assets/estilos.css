@@ -1,9 +1,11 @@
-/* Declarando formato para todo el html e importando fuente personalizada */
+/* Importando fuente personalizada */
 
 @font-face {
     font-family: Oswald;
     src: url(Oswald-VariableFont_wght.ttf);
 }
+
+/* Declarando una font-family segura, junto a fuente personalizada. Reseteo de estilos de pagina. */
 
 * {
     font-family: Oswald, Verdana, Geneva, Tahoma, sans-serif;
@@ -80,6 +82,7 @@
 }
 
 /* Temporalmente declarando el logo mas pequeño para pruebas de funcionalidad. */
+
 .logo {
     width: 3rem;
     height: 3rem;
