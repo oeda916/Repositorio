@@ -91,6 +91,9 @@ document.addEventListener('change', (e) => {
 })
 
 
+// Documentación de API de clima se puede conseguir en: https://openweathermap.org/forecast5
+// Argumentos Utilizados : Coordenadas, Unidades metricas, maximo 12 posiciones de request, lenguaje en español y usagekey al ser una api gratuita pero con limite de requests. 
+
 addEventListener('DOMContentLoaded', () => {
 
     async function fetchClimaApi() {
@@ -111,9 +114,29 @@ addEventListener('DOMContentLoaded', () => {
             });
             const para = document.createElement('p');
             para.className = 'cajaclima_'+(i+1);
-            const node = document.createTextNode((description.charAt(0).toUpperCase()+description.slice(1))+ ' - Probabilidades de Lluvia = '+ (pop * 100)+'% - '+ 'Fecha y hora: ' +FechaArg);
-            para.appendChild(node);
-            const element = document.getElementById('climadiv');
+            const node1 = document.createTextNode('Estado general: '+(description.charAt(0).toUpperCase()+description.slice(1)));
+            const node1_1 = document.createElement('br');
+            const node2 = document.createTextNode('Temperatura: '+temp+'°C');
+            const node2_1 = document.createElement('br');
+            const node3 = document.createTextNode('Sensación Termica: '+feels_like+'°C');
+            const node3_1 = document.createElement('br');
+            const node4 = document.createTextNode('Probabilidades de Lluvia: '+ (pop * 100)+'%');
+            const node4_1 = document.createElement('br');
+            const node5 = document.createTextNode('Porcentaje de Humedad: '+humidity+'%');
+            const node5_1 = document.createElement('br');
+            const node6 = document.createTextNode('Dia y hora: '+FechaArg);
+            para.appendChild(node1);
+            para.appendChild(node1_1);
+            para.appendChild(node2);
+            para.appendChild(node2_1);
+            para.appendChild(node3);
+            para.appendChild(node3_1);
+            para.appendChild(node4);
+            para.appendChild(node4_1);
+            para.appendChild(node5);
+            para.appendChild(node5_1);
+            para.appendChild(node6);
+            const element = document.getElementById('climasec');
             element.appendChild(para);
             console.log(temp, feels_like, humidity, description, 'Probabilidades de Lluvia', (pop * 100), '%', FechaArg);
         };

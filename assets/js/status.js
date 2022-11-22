@@ -7,11 +7,8 @@ const resetconsulta = document.getElementById('resetcons');
 
 const estadorepEl = document.getElementById('estado');
 
-// Haciendo fetch de JSON local que simula base de datos "Con el estado actual de los soportes"
+// Haciendo fetch de JSON local artificial que simularia base de datos "Con el estado actual de los soportes"
 // Definiendo codigo para realizar y reiniciar consulta
-
-//Añadiendo eventlistener para que cuando cargue la pagina de seguimiento haga foco en el boton de consulta
-
 
 const realizarconsulta = () => {
 
@@ -43,6 +40,9 @@ const realizarconsulta = () => {
         }
         );
 };
+
+
+//Se resetea HTML con una funcion remove de hijos del elemento Div donde fueron creados los parrafos
 
 const resetearconsulta = () => {
 
