@@ -1,3 +1,5 @@
+var llavepub = work_around.llave_pub;
+
 function valida_envia() {
 
     if (document.formulario.nombre.value.length == 0) {
@@ -92,12 +94,15 @@ document.addEventListener('change', (e) => {
 
 
 // Documentación de API de clima se puede conseguir en: https://openweathermap.org/forecast5
-// Argumentos Utilizados : Coordenadas, Unidades metricas, maximo 12 posiciones de request, lenguaje en español y usagekey al ser una api gratuita pero con limite de requests. 
+// Argumentos Utilizados : Coordenadas, Unidades metricas, Maximo 12 posiciones de request, lenguaje en español y usagekey al ser una api gratuita pero con limite de requests.
+// Se tuvo que utilizar un pequeño work around ya que es mala practica tener una key privada expuesta en un repositorio. 
+// Permite "ocultar" el ID o KEY de la API solo para que no sea tan flagrante la exposición aunque la manera correcta es hacer un proxy con un servidor local donde no se pueda
+// Obtener por dev tools exactamente hacia donde se hace el requerimiento de red. 
 
 addEventListener('DOMContentLoaded', () => {
 
     async function fetchClimaApi() {
-        const response = await fetch('https://api.openweathermap.org/data/2.5/forecast?lat=-34.5455513&lon=-58.471045&lang=es&cnt=12&units=metric&appid=650cfc6f64b445184b62f512f2bb7d30');
+        const response = await fetch('https://api.openweathermap.org/data/2.5/forecast?lat=-34.5455513&lon=-58.471045&lang=es&cnt=12&units=metric&appid='+llavepub);
         const ClimaApi = await response.json();
         console.log(response.status);
         console.log(response.ok);
