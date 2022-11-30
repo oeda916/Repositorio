@@ -14,6 +14,12 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: linear-gradient(to bottom right, #66ffff,#66ccff,#6699ff,#6666ff,#6633ff);
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
 .btns {
     display: block;
 }
