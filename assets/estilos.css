@@ -15,41 +15,111 @@
 }
 
 body {
-    background-image: linear-gradient(to bottom right, #66ffff,#66ccff,#6699ff,#6666ff,#6633ff);
+    background-image: linear-gradient(to bottom right, #66ffff, #66ccff, #6699ff, #6666ff, #6633ff);
     min-width: 100vw;
     min-height: 100vh;
 }
 
-.btns {
-    display: block;
-}
-
 #estado {
+    align-items: center;
     display: grid;
-    max-width: 100%;
-
+    max-width: 900%;
+    grid-template-areas:
+        "m n";
 }
 
-#estado>p {
-    font-size: 1rem;
+#estado>div>p {
+    font-size: 1.5rem;
     padding: 0.2 rem;
-    margin: 0.2 rem;
-    justify-self: center;
-    max-width: fit-content;
+    margin: 0.2 rem;    
 }
+
+.Data_Sop {
+    grid-area: m;
+    text-align: center;
+    padding: 0.35rem;
+    margin: 0.2rem;
+    border: solid rgb(59, 57, 66) 10px;
+    border-radius: 15%;
+    background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+   }
 
 #ImagenRp {
-    max-width: 50%;
-    height: auto;
-    justify-self: center;
+    grid-area: n;
+    min-width: 35%;
+    max-width: 70%;
+    border-radius: 15%;
+    max-height: 85%;
 }
 
+.btns {
+    display: block;
+    font-size: 2rem;
+    background-color: #d4d9e4;
+    }
+
+.pconsultaseg {
+    margin: 2rem;
+    padding: 2rem;
+    background-image: linear-gradient(to bottom right, rgb(0,0,0,0.1),rgb(128,128,128,0.1),rgb(255,255,255,0.1),rgb(128,128,128,0.1),rgb(0,0,0,0.1));
+    max-width: fit-content;
+    display:flex;
+    border-radius: 5%;
+    font-size: 1.25rem;
+    color: rgb(75,0,0);
+}
+
+#form > input {
+width: 25%;
+}
+
+.navegacion {
+    list-style-type: none;
+}
+
+header .navegacion {
+    display:flex;
+    place-content: space-between;
+    justify-content: space-evenly;
+    min-width:min-content;
+}
+
+header .navegacion li a {
+    text-decoration: none;
+    padding: 0.25rem;
+}
+
+header h1 {
+    padding: 0.25rem;
+}
+
+
+header {
+    display:flex;
+    place-content: space-between;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+footer {
+    display:flex;
+    place-content: space-between;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+header {
+    padding:0.25rem;
+}
 
 .logo {
-    width: 8rem;
-    height: 8rem;
+    width: 5rem;
+    height: 5rem;
 }
-
 
 /* Redefiniendo segun ancho pantalla pagina de formulario de contacto */
 
@@ -63,6 +133,8 @@ body {
             padding: 0.75rem;
             margin: 0.75rem;
             max-width: 95%;
+            border: dotted black 8px;
+            border-radius: 5%;
         }
     
         #climasec {
@@ -78,9 +150,11 @@ body {
     
         #climasec>p {
             font-size: 1.75rem;
-            padding: 0.5rem;
-            margin: 0.5rem;
+            padding: 0.75rem;
+            margin: 0.75rem;
             outline: 3px solid black;
+            background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+            border-radius: 15%;
         }
     .cajaclima_1 {grid-area: a;} .cajaclima_2 {grid-area: b;} .cajaclima_3 {grid-area: c;} .cajaclima_4 {grid-area: d;} .cajaclima_5 {grid-area: e;} .cajaclima_6 {grid-area: f;}
     .cajaclima_7 {grid-area: g;} .cajaclima_8 {grid-area: h;} .cajaclima_9 {grid-area: i;} .cajaclima_10 {grid-area: j;} .cajaclima_11 {grid-area: k;} .cajaclima_12 {grid-area: l;}
@@ -96,6 +170,8 @@ body {
             padding: 0.5625rem;
             margin: 0.5625rem;
             max-width: 95%;
+            border: dotted black 8px;
+            border-radius: 5%;
         }
     
         #climasec {
@@ -111,10 +187,12 @@ body {
         }
     
         #climasec>p {
-            font-size: 1.3125rem;
-            padding: 0.375rem;
-            margin: 0.375rem;
+            font-size: 1.4125rem;
+            padding: 0.575rem;
+            margin: 0.575rem;
             outline: 3px solid black;
+            background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+            border-radius: 15%;
         }
     .cajaclima_1 {grid-area: a;} .cajaclima_2 {grid-area: b;} .cajaclima_3 {grid-area: c;} .cajaclima_4 {grid-area: d;} .cajaclima_5 {grid-area: e;} .cajaclima_6 {grid-area: f;}
     .cajaclima_7 {grid-area: g;} .cajaclima_8 {grid-area: h;} .cajaclima_9 {grid-area: i;} .cajaclima_10 {grid-area: j;} .cajaclima_11 {grid-area: k;} .cajaclima_12 {grid-area: l;}
@@ -130,6 +208,8 @@ body {
             padding: 0.421875rem;
             margin: 0.421875rem;
             max-width: 95%;
+            border: dotted black 8px;
+            border-radius: 5%;
         }
     
         #climasec {
@@ -147,10 +227,12 @@ body {
         }
     
         #climasec>p {
-            font-size: 0.984375rem;
-            padding: 0.28125rem;
-            margin: 0.28125rem;
+            font-size: 1.184375rem;
+            padding: 0.48125rem;
+            margin: 0.48125rem;
             outline: 3px solid black;
+            background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+            border-radius: 15%;
         }
     .cajaclima_1 {grid-area: a;} .cajaclima_2 {grid-area: b;} .cajaclima_3 {grid-area: c;} .cajaclima_4 {grid-area: d;} .cajaclima_5 {grid-area: e;} .cajaclima_6 {grid-area: f;}
     .cajaclima_7 {grid-area: g;} .cajaclima_8 {grid-area: h;} .cajaclima_9 {grid-area: i;} .cajaclima_10 {grid-area: j;} .cajaclima_11 {grid-area: k;} .cajaclima_12 {grid-area: l;}
@@ -162,10 +244,12 @@ body {
             display: grid;
             text-align: center;
             justify-content: center;
-            font-size: 1.107421875rem;
+            font-size: 1.307421875rem;
             padding: 0.31640625rem;
             margin: 0.31640625rem;
             max-width: 95%;
+            border: dotted black 8px;
+            border-radius: 5%;
         }
     
         #climasec {
@@ -189,11 +273,46 @@ body {
         }
     
         #climasec>p {
-            font-size: 0.73828125rem;
-            padding: 0.2109375rem;
-            margin: 0.2109375rem;
+            font-size: 0.93828125rem;
+            padding: 0.4109375rem;
+            margin: 0.4109375rem;
             outline: 3px solid black;
+            background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+            border-radius: 15%;
         }
     .cajaclima_1 {grid-area: a;} .cajaclima_2 {grid-area: b;} .cajaclima_3 {grid-area: c;} .cajaclima_4 {grid-area: d;} .cajaclima_5 {grid-area: e;} .cajaclima_6 {grid-area: f;}
     .cajaclima_7 {grid-area: g;} .cajaclima_8 {grid-area: h;} .cajaclima_9 {grid-area: i;} .cajaclima_10 {grid-area: j;} .cajaclima_11 {grid-area: k;} .cajaclima_12 {grid-area: l;}
+}
+
+.contenido {
+    display: grid;
+    grid-template-areas:
+        "o o o p"
+        "o o o p";
+}
+
+.seccioncontenido {
+    grid-area: o;
+    padding: 0.85rem;
+    margin: 0.6rem;
+    border: solid rgb(59, 57, 66) 10px;
+    border-radius: 15%;
+    background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+}
+
+.articulo1, .articulo2 {
+    padding: 1rem;
+}
+
+aside {
+    grid-area: p;
+    padding: 0.75rem;
+    margin: 0.6rem;
+    border: solid rgb(59, 57, 66) 10px;
+    border-radius: 15%;
+    background-image: linear-gradient(to bottom right, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4, #d4d9e4);
+}
+
+aside > p {
+    padding: 0.5rem;
 }

@@ -8,38 +8,52 @@
     <link rel="stylesheet" href="assets/estilos.css">
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <title>BA Services</title>
 </head>
 
 <body>
+    
     <header>
-    <img src="assets/Logositio.png" class="logo">
-            <h1> Servicio Técnico Especializado</h1></div>
-        
+
+        <img src="assets/Logositio.png" class="logo"> 
+
+        <h1>Servicio Técnico Especializado</h1>
+
+        <nav>
+
+            <ul class="navegacion">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="nosotros.html">Quienes Somos</a></li>
+                <li><a href="seguimiento.html">Seguimiento de Servicio</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+
+        </nav>
+
     </header>
 
-    <nav>
+<!-- Animación obtenida desde: https://animate.style/ -->
+    <div class="animate__animated animate__heartBeat">
 
-        <ul class="navegacion">
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="nosotros.html">Quienes Somos</a></li>
-            <li><a href="seguimiento.html">Seguimiento de Servicio</a></li>
-            <li><a href="contacto.html">Contacto</a></li>
-        </ul>
+    <p class="pconsultaseg">Si desea conocer el estado actual de su servicio de reparación le ofrecemos la herramienta a continuación para que pueda realizar su consulta</p></div>
 
-    </nav>
+    <div id="estado"><div class="Data_Sop"><p>Numero de Soporte: </p>
+        <p class="TiEeqq">Tipo de equipo: </p>
+        <p class="Ffechii">Fecha de inicio de trabajos: </p>
+        <p class="Ffechaa">Fecha de ultima actualizacion: </p>
+        <p class="Eeact">Estado actual de trabajo: </p></div>
+        <img src="assets/img/placeholder.jpg" alt="placeholderimg" id="ImagenRp"></div>
+    <br>
 
-<div id="estado"></div>
-<br>
-
-<button class = "btns" id = "consultar">Consultar</button>
-<button class = "btns" id = "resetcons">Reiniciar consulta</button>
+    <button class="btns" id="consultar">Consultar</button>
+    <button class="btns" id="resetcons">Reiniciar consulta</button>
 
     <footer>
         Todos los derechos reservados
         <div class="diviconos">
             <p class="iconos"><i class='bx bxl-facebook-square'></i></p>
-             </div>
+        </div>
     </footer>
 
 </body>

@@ -30,11 +30,11 @@ const realizarconsulta = () => {
                     console.log((statuses[NumaConsultar2].TipoEq));
                 };
                 let rutaimg = ["aireacond","cocina","heladera","lavarropas","televisor"];
-                estadorepEl.innerHTML = `<p>Numero de Soporte: ${statuses[NumaConsultar2].NumS}</p>
+                estadorepEl.innerHTML = `<div class="Data_Sop"><p>Numero de Soporte: ${statuses[NumaConsultar2].NumS}</p>
                 <p class = "TiEeqq" >Tipo de equipo: ${statuses[NumaConsultar2].TipoEq}</p>
                 <p class = "Ffechii" >Fecha de inicio de trabajos: ${statuses[NumaConsultar2].FechaI}</p>
                 <p class = "Ffechaa" >Fecha de ultima actualizacion: ${statuses[NumaConsultar2].FechaAct}</p>
-                <p class = "Eeact" >Estado actual de trabajo: ${statuses[NumaConsultar2].EdoAct}</p>
+                <p class = "Eeact" >Estado actual de trabajo: ${statuses[NumaConsultar2].EdoAct}</p></div>
                 <img src="assets/img/${rutaimg[statuses[NumaConsultar2].IdTipE]}.jpg" alt = "${statuses[NumaConsultar2].TipoEq}" id = "ImagenRp" >`;
             };
         }
@@ -54,6 +54,14 @@ const resetearconsulta = () => {
             eliminar.remove();
         }
     };
+    
+    estadorepEl.innerHTML = `<div class="Data_Sop"><p>Numero de Soporte: </p>
+    <p class="TiEeqq">Tipo de equipo: </p>
+    <p class="Ffechii">Fecha de inicio de trabajos: </p>
+    <p class="Ffechaa">Fecha de ultima actualizacion: </p>
+    <p class="Eeact">Estado actual de trabajo: </p></div>
+    <img src="assets/img/placeholder.jpg" alt="placeholderimg" id="ImagenRp"></div>`;
+
 };
 
 // Event listeners para ambos botones disponibles en pagina
